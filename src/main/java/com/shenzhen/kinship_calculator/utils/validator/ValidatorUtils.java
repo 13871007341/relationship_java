@@ -1,7 +1,7 @@
-package com.shuwen.kinship_calculator.utils.validator;
+package com.shenzhen.kinship_calculator.utils.validator;
 
 
-import com.shuwen.kinship_calculator.utils.exception.RRException;
+import com.shenzhen.kinship_calculator.utils.exception.RRException;
 
 import javax.validation.ConstraintViolation;
 import javax.validation.Validation;

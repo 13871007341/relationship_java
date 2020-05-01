@@ -1,8 +1,8 @@
-package com.shuwen.kinship_calculator.service.impl;
+package com.shenzhen.kinship_calculator.service.impl;
 
-import com.shuwen.kinship_calculator.bean.Kinship;
-import com.shuwen.kinship_calculator.service.IKinshipService;
-import com.shuwen.kinship_calculator.utils.KSCUtils;
+import com.shenzhen.kinship_calculator.bean.Kinship;
+import com.shenzhen.kinship_calculator.service.IKinshipService;
+import com.shenzhen.kinship_calculator.utils.KSCUtils;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang.StringUtils;
 import org.springframework.stereotype.Service;

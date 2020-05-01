@@ -1,10 +1,10 @@
-package com.shuwen.kinship_calculator.api;
+package com.shenzhen.kinship_calculator.api;
 
-import com.shuwen.kinship_calculator.bean.Kinship;
-import com.shuwen.kinship_calculator.service.IKinshipService;
-import com.shuwen.kinship_calculator.utils.Constant;
-import com.shuwen.kinship_calculator.utils.R;
-import com.shuwen.kinship_calculator.utils.validator.Assert;
+import com.shenzhen.kinship_calculator.bean.Kinship;
+import com.shenzhen.kinship_calculator.utils.Constant;
+import com.shenzhen.kinship_calculator.utils.R;
+import com.shenzhen.kinship_calculator.utils.validator.Assert;
+import com.shenzhen.kinship_calculator.service.IKinshipService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

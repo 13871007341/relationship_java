@@ -1,4 +1,4 @@
-package com.shuwen.kinship_calculator.bean;
+package com.shenzhen.kinship_calculator.bean;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

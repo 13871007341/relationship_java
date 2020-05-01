@@ -1,4 +1,4 @@
-package com.shuwen.kinship_calculator.utils.exception;
+package com.shenzhen.kinship_calculator.utils.exception;
 
 /**
  * 自定义异常

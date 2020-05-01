@@ -1,6 +1,6 @@
-package com.shuwen.kinship_calculator.service;
+package com.shenzhen.kinship_calculator.service;
 
-import com.shuwen.kinship_calculator.bean.Kinship;
+import com.shenzhen.kinship_calculator.bean.Kinship;
 
 import java.util.List;
 

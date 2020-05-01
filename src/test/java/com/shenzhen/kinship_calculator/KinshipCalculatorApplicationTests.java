@@ -1,4 +1,4 @@
-package com.shuwen.kinship_calculator;
+package com.shenzhen.kinship_calculator;
 
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;

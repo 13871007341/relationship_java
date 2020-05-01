@@ -1,4 +1,4 @@
-package com.shuwen.kinship_calculator.utils;
+package com.shenzhen.kinship_calculator.utils;
 
 
 import lombok.extern.slf4j.Slf4j;

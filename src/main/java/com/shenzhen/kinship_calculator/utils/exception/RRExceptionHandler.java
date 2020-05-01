@@ -1,6 +1,6 @@
-package com.shuwen.kinship_calculator.utils.exception;
+package com.shenzhen.kinship_calculator.utils.exception;
 
-import com.shuwen.kinship_calculator.utils.R;
+import com.shenzhen.kinship_calculator.utils.R;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.dao.DuplicateKeyException;
